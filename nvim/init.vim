@@ -1,6 +1,10 @@
+"NEOVIM setting
 :set number
 
+
+"NERDTREE
 nmap <F6> :NERDTreeToggle<CR>
+
 call plug#begin()
   Plug 'preservim/nerdtree' |
             \ Plug 'Xuyuanp/nerdtree-git-plugin' |
