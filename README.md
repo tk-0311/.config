@@ -1,12 +1,15 @@
 # vimConf
 
-NERDTree
-<details open>
->> this is the configuration for NERDTREE   
+<ul>
+  <li>NERDTree
+    <details open>
+      >> this is the configuration for NERDTREE   
 
->>> to toggle "F6"  
+      >>> to toggle "F6"  
 
->>> to switch window shift + w  
+      >>> to switch window shift + w  
 
-</details>
-
+    </details>
+  </li>
+</ul>
+  
