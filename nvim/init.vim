@@ -2,7 +2,9 @@
 
 
 call plug#begin()
-  Plug 'preservim/nerdtree'
+  Plug 'preservim/nerdtree' |
+            \ Plug 'Xuyuanp/nerdtree-git-plugin' |
+            \ Plug 'ryanoasis/vim-devicons'
 call plug#end()
 
 
