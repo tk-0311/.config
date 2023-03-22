@@ -28,5 +28,7 @@ run the command to enable Plug Manager
   to switch window shift + w  
   </details>
   </li>
-</ul>
-  
+</ul>  
+
+
+This is for personal use
